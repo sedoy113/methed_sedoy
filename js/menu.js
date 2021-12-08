@@ -7,6 +7,7 @@ const closeMenu = (nav, active) => {
 };
 
 
+// 1 вариант
 /*const slideMenu = (openBtn, menu, classActiveMenu, closeTrigger) => {
 
 	const burgerBtn = document.querySelector(openBtn);
@@ -25,7 +26,7 @@ const closeMenu = (nav, active) => {
 		})
 	})
 };
-1 вариант */
+ */
 
 // 2 вариант setting
 /*const slideMenu = (setting) => {
